@@ -1,0 +1,1 @@
+g++ -std=c++11 main.c util.c syntax.c lex_scanner.cpp -o parser                               
